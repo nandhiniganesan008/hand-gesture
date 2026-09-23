@@ -1,0 +1,102 @@
+```css
+/* Overall Page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f8f1e7;
+    color: #3e2723;
+}
+
+/* Header */
+header {
+    background-color: #5d4037;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Navigation */
+nav {
+    background-color: #3e2723;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #ffcc80;
+}
+
+/* Sections */
+section {
+    padding: 30px;
+    text-align: center;
+}
+
+section h2 {
+    color: #5d4037;
+    font-size: 30px;
+}
+
+/* Home Image */
+#home img {
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+/* Menu Table */
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+    width: 60%;
+}
+
+th {
+    background-color: #6d4c41;
+    color: white;
+}
+
+td, th {
+    padding: 15px;
+    border: 1px solid #8d6e63;
+}
+
+tr:hover {
+    background-color: #efebe9;
+}
+
+/* Contact Form */
+form {
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #8d6e63;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-colo
+```
